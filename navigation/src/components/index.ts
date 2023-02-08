@@ -1,0 +1,1 @@
+export { default as TextoCentral } from './TextoCentral/TextoCentral';
